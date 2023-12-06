@@ -6,7 +6,9 @@ The Deployment Box for Drive System Tests is a specialized enclosure designed fo
 
 - **Aluminum Panels and Wood Shel**: Forming the main structure of the deployment box. PN HWCHAS1710BK.
 
-![Box from digikey](Images/Box.JPG)
+<img src="Images/Box.JPG" alt="Box from digikey" width="300" height="200">
+
+<!-- ![Box from digikey](Images/Box.JPG) -->
 
 - **50 Double Bananas**: Used for electrical connections and testing purposes. PN BU-P6883.
 
@@ -79,4 +81,4 @@ This project is under the company Dr. Gal Ben-David DSP ltd. Last Updated in 6/1
 
 Company: Dr Gal Ben-David DSP ltd.
 
-![Company: Dr Gal Ben-David DSP ltd.](Company.png)
+![Company: Dr Gal Ben-David DSP ltd.](Images/Company.png)
