@@ -6,58 +6,58 @@ The Deployment Box for Drive System Tests is a specialized enclosure designed fo
 
 - **Aluminum Panels and Wood Shel**: Forming the main structure of the deployment box. PN HWCHAS1710BK.
 
-![Box from digikey](Box.JPG)
+![Box from digikey](Images/Box.JPG)
 
 - **50 Double Bananas**: Used for electrical connections and testing purposes. PN BU-P6883.
 
-![Double Bananas](Double_Banana.JPG)
+![Double Bananas](Images/Double_Banana.JPG)
 
 - **2 Gecko Connectors 10P Male**: Connectors for interfacing with specific systems. PN 
 G125-MV11005M2P - 1129036726.
 
-![Gecko_Con_10P](Gecko_Con_10P.JPG)
+![Gecko_Con_10P](Images/Gecko_Con_10P.JPG)
 
 - **6 Gecko Connectors 12P Male**: Additional connectors for broader compatibility. PN G125-MV11205M2P - 1129036727.
 
-![Gecko_Con_12P](Gecko_Con_12P.JPG)
+![Gecko_Con_12P](Images/Gecko_Con_12P.JPG)
 
 - **2 Gecko Connectors 6P Male**: For specific interface requirements. PN G125-MV10605M2P - 1129036893.
 
-![Gecko_Con_6P](Gecko_Con_6P.JPG)
+![Gecko_Con_6P](Images/Gecko_Con_6P.JPG)
 
 - **28 Countersunk Screws M3x12mm**: Hardware for securely assembling the box. PN DIN 965, RS NUM 528-952.
 
-![Countersunk_Screw](Countersunk_Screw.JPG)
+![Countersunk_Screw](Images/Countersunk_Screw.JPG)
 
 - **28 Spacers of 2.03mm**: Essential for maintaining proper spacing and alignment. PN 905-080.
 
-![Spacer](Spacer.JPG)
+![Spacer](Images/Spacer.JPG)
 
 - **2 Header Connectors 10P**: Additional connectors for specific applications. PN 0901301110.
 
-![Head10](Head10.JPG)
+![Head10](Images/Head10.JPG)
 
 - **6 Header Connectors 12P**: Broader interface options for comprehensive testing. PN 901301112.
 
-![Head12](Head12.JPG)
+![Head12](Images/Head12.JPG)
 
 - **2 Header Connectors 6P**: For specialized connections and compatibility. PN 901301106.
 
-![Head6](Head6.JPG)
+![Head6](Images/Head6.JPG)
 
 ## Assembly:
 
 - **Circuit_Part_10P**: Using a costume circuit design, A 10P Gecko and Header connectors.
 
-![Circuit_Part_10P](Circuit_Part_10P.JPG)
+![Circuit_Part_10P](Images/Circuit_Part_10P.JPG)
 
 and inside the box:
 
-![Box_Circuit_Part_10P](Box_Circuit_Part_10P.JPG)
+![Box_Circuit_Part_10P](Images/Box_Circuit_Part_10P.JPG)
 
 - **The full Box assembly**: For 6/12/23
 
-![Box_6_12_23](Box_6_12_23.JPG)
+![Box_6_12_23](Images/Box_6_12_23.JPG)
 
 ## Purpose:
 
