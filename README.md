@@ -4,62 +4,60 @@ The Deployment Box for Drive System Tests is a specialized enclosure designed fo
 
 ## Parts Included:
 
-- **Aluminum Panels and Wood Shel**: Forming the main structure of the deployment box. PN HWCHAS1710BK.
+- **Aluminum Panels and Wood Shell**: Forming the main structure of the deployment box. PN HWCHAS1710BK.
 
-<img src="Images/Box.JPG" alt="Box from digikey" width="300" height="200">
-
-<!-- ![Box from digikey](Images/Box.JPG) -->
+  <img src="Images/Box.JPG" alt="Box from Digikey" width="300" height="200">
 
 - **50 Double Bananas**: Used for electrical connections and testing purposes. PN BU-P6883.
 
-![Double Bananas](Images/Double_Banana.JPG)
+  <img src="Images/Double_Banana.JPG" alt="Double Bananas" width="300" height="200">
 
-- **2 Gecko Connectors 10P Male**: Connectors for interfacing with specific systems. PN 
-G125-MV11005M2P - 1129036726.
+- **2 Gecko Connectors 10P Male**: Connectors for interfacing with specific systems. PN G125-MV11005M2P - 1129036726.
 
-![Gecko_Con_10P](Images/Gecko_Con_10P.JPG)
+  <img src="Images/Gecko_Con_10P.JPG" alt="Gecko_Con_10P" width="300" height="200">
 
 - **6 Gecko Connectors 12P Male**: Additional connectors for broader compatibility. PN G125-MV11205M2P - 1129036727.
 
-![Gecko_Con_12P](Images/Gecko_Con_12P.JPG)
+  <img src="Images/Gecko_Con_12P.JPG" alt="Gecko_Con_12P" width="300" height="200">
 
 - **2 Gecko Connectors 6P Male**: For specific interface requirements. PN G125-MV10605M2P - 1129036893.
 
-![Gecko_Con_6P](Images/Gecko_Con_6P.JPG)
+  <img src="Images/Gecko_Con_6P.JPG" alt="Gecko_Con_6P" width="300" height="200">
 
 - **28 Countersunk Screws M3x12mm**: Hardware for securely assembling the box. PN DIN 965, RS NUM 528-952.
 
-![Countersunk_Screw](Images/Countersunk_Screw.JPG)
+  <img src="Images/Countersunk_Screw.JPG" alt="Countersunk_Screw" width="300" height="200">
 
 - **28 Spacers of 2.03mm**: Essential for maintaining proper spacing and alignment. PN 905-080.
 
-![Spacer](Images/Spacer.JPG)
+  <img src="Images/Spacer.JPG" alt="Spacer" width="300" height="200">
 
 - **2 Header Connectors 10P**: Additional connectors for specific applications. PN 0901301110.
 
-![Head10](Images/Head10.JPG)
+  <img src="Images/Head10.JPG" alt="Head10" width="300" height="200">
 
 - **6 Header Connectors 12P**: Broader interface options for comprehensive testing. PN 901301112.
 
-![Head12](Images/Head12.JPG)
+  <img src="Images/Head12.JPG" alt="Head12" width="300" height="200">
 
 - **2 Header Connectors 6P**: For specialized connections and compatibility. PN 901301106.
 
-![Head6](Images/Head6.JPG)
+  <img src="Images/Head6.JPG" alt="Head6" width="300" height="200">
 
 ## Assembly:
 
-- **Circuit_Part_10P**: Using a costume circuit design, A 10P Gecko and Header connectors.
+- **Circuit_Part_10P**: Using a custom circuit design, A 10P Gecko and Header connectors.
 
-![Circuit_Part_10P](Images/Circuit_Part_10P.JPG)
+  <img src="Images/Circuit_Part_10P.JPG" alt="Circuit_Part_10P" width="300" height="200">
 
-and inside the box:
+  and inside the box:
 
-![Box_Circuit_Part_10P](Images/Box_Circuit_Part_10P.JPG)
+  <img src="Images/Box_Circuit_Part_10P.JPG" alt="Box_Circuit_Part_10P" width="300" height="200">
 
 - **The full Box assembly**: For 6/12/23
 
-![Box_6_12_23](Images/Box_6_12_23.JPG)
+  <img src="Images/Box_6_12_23.JPG" alt="Box_6_12_23" width="300" height="200">
+
 
 ## Purpose:
 
@@ -77,8 +75,9 @@ This project was developed and contributed to by Dr Gal Ben David and Alon Omer 
 
 ## Company:
 
-This project is under the company Dr. Gal Ben-David DSP ltd. Last Updated in 6/12/23
+This project is under the company Dr. Gal Ben-David DSP ltd. Last Updated on 6/12/23
 
-Company: Dr Gal Ben-David DSP ltd.
+Company: Dr. Gal Ben-David DSP ltd.
 
-![Company: Dr Gal Ben-David DSP ltd.](Images/Company.png)
+<img src="Images/Company.png" alt="Company Logo" width="300">
+
