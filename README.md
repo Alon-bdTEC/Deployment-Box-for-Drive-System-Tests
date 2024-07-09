@@ -58,6 +58,14 @@ The Deployment Box for Drive System Tests is a specialized enclosure designed fo
 
   <img src="Images/Box_6_12_23.JPG" alt="Box_6_12_23" width="300" height="200">
 
+- **New box chosen and the final production**: For 9/7/24
+  The project has been completed at this point.
+  We have designed a new front panel on another
+  box from the shelf: Box_RM2U1918SBK
+  <img src="Images/Me and box.JPG" alt="Box_6_12_23" width="300" height="200">
+  <img src="Images/Front view" alt="Box_6_12_23" width="300" height="200">
+  <img src="Images/Top view" alt="Box_6_12_23" width="300" height="200">
+
 
 ## Purpose:
 
